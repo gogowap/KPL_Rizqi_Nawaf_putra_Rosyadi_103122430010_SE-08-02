@@ -27,6 +27,6 @@ Untuk memastikan font Inconsolata muncul, pastikan baris ini ada di dalam <head>
 <link href="https://fonts.googleapis.com/css2?family=Inconsolata&display=swap" rel="stylesheet">
 Dan di CSS gunakan:
 font-family: 'Inconsolata', monospace;
-
+.
 
 
