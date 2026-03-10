@@ -33,7 +33,7 @@ Untuk memastikan font Inconsolata muncul, pastikan baris ini ada di dalam <head>
 
 Dan di CSS gunakan:
 font-family: 'Inconsolata', monospace;
-
+.
 
 
 
