@@ -24,7 +24,8 @@ Tersedia di
 ## Soal 1
 (1) menghitung huruf kecil yang disediakan di #hk,
     ![alt text](image.png)
-    setelah memasukan huruf, sistem akan menampilkan jumlah huruf yang kita masukan contoh saya memasukan kata "hai" maka jumlah huruf yang keluar berupa 3 huruf. 
+
+    setelah memasukan huruf, sistem akan menampilkan jumlah huruf yang kita masukan contoh saya memasukan kata "Hai" maka jumlah huruf Kecil yang keluar berupa 2 huruf. 
     
     ```
     const hitungKecil = (teks.match(/[a-z]/g) || []).length;
@@ -34,15 +35,18 @@ Tersedia di
 ## Soal 2
 (2) mengubah huruf kecil ke huruf besar ketika pengguna menekan tombol #huruf-besar,
     ![alt text](image-1.png)
+
     setelah memasukan huruf dan menekan tombol maka sistem akan mengubah huruf kecil menjadi huruf besar, contohnya hai menjadi HAI.
 
 ## Soal 3
 (3) mengubah huruf besar ke huruf kecil ketika pengguna menekan tombol #huruf-kecil.
     ![alt text](image-2.png)
+
     setelah memasukan huruf besar dan menekan tombol maka sistem akan mengubah huruf besar menjadi huruf kecil, contohnya HAI menjadi hai.
 
 ## Kemudian, hapuslah fitur "Paragrafkan" dari alat.
 ![alt text](image-3.png)
+
 untuk mengapus fitur paragraft saya akan menghapus beberapa code seperti berikut:
 
 index.js
@@ -64,5 +68,6 @@ dan menghapus pada index.html
         <!-- <button id="huruf-paragraf">Paragrafkan</button> -->
     </div>
 ```
+
 ![alt text](image-4.png)
 
