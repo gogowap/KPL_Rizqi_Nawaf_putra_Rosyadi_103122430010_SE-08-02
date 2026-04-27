@@ -20,5 +20,8 @@
   "homepage": "https://github.com/gogowap/KPL_Rizqi_Nawaf_putra_Rosyadi_103122430010_SE-08-02#readme",
   "devDependencies": {
     "typescript": "^6.0.2"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2"
   }
 }
